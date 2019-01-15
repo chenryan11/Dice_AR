@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DICESNAKEEYES" size="100.000000 100.000000" />
+    <ImageTarget name="6sided_dice" size="100.000000 69.000000" />
+    <ImageTarget name="red-dice-1000x1000" size="1000.000000 1000.000000" />
+    <ImageTarget name="color-luma-dice" size="100.000000 56.185566" />
+  </Tracking>
+</QCARConfig>
